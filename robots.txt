@@ -1,1 +1,1 @@
-Sitemap: https://p-j-smith.github.io/sitemap.xml
+Sitemap: https://github.com/p-j-smith/p-j-smith.github.io/sitemap.xml
