@@ -6,7 +6,7 @@ website:
     collapse: false
     left: 
       - file: index.qmd
-        text: consciously incompetant
+        text: consciously incompetent
     right:
       - icon: person-circle
         href: https://p-j-smith.github.io/about.html
