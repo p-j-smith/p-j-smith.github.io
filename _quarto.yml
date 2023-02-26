@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/p-j-smith
+      - icon: linkedin
+        href: https://www.linkedin.com/in/p-j-smith/
 format:
   html:
     theme: cosmo
