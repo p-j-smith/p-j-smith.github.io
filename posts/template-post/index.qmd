@@ -1,0 +1,101 @@
+---
+title: 'This is a dummy blog post'
+date: '2023-02-26'
+categories: ['1st category', 'Second Tag']
+description: 'This is not a real post. It illustrates how to use some of the formatting options.'
+execute:
+  echo: true  # print formatted code blocks
+  eval: false  # don't evaluate code blocks
+  message: false
+  warning: true
+editor_options: 
+  chunk_output_type: console
+draft: true  # don't publish this!
+---
+
+# Heading 1
+
+Some text goes here
+
+## Merriweather
+
+And more here.
+
+Plus a [hyperlink](https://p-j-smith.github.io/) to my blog
+
+### 3 - Code
+
+This is `inline` code plus a small code chunk.
+
+```{python}
+#| eval: true
+#| echo: true
+import this
+```
+
+
+### Tabsets
+
+```{python}
+#| eval: false
+#| echo: true
+print('Create two tabs')
+```
+
+
+::: panel-tabset
+### Print some code
+
+```{python}
+#| code-fold: true
+variable = 1
+if variable:
+    print(variable)
+```
+
+### Assert something
+
+```{python}
+#| code-fold: false
+assert 1 > 0
+print('1 is greater than 0!')
+
+```
+:::
+
+#### 4 - Some math stuff
+
+$$
+\int_0^1 f(x) \ dx
+$$
+
+
+
+
+## 2 - Columns
+
+::: {layout="[[1,1]]"}
+
+```{python}
+#| eval: false
+#| echo: true
+print('first column')
+```
+
+```{python}
+#| eval: false
+#| echo: true
+print('second column')
+```
+
+:::
+
+## 2 - Margin captions
+
+```{python}
+#| fig-cap: "Bla bla bla. This is a caption in the margin. Super cool isn't it?"
+#| fig-cap-location: margin
+#| echo: true
+#| eval: false
+print('not the margin')
+```
