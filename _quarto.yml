@@ -2,10 +2,14 @@ project:
   type: website
 
 website:
-  title: "p-j-smith.github.io"
   navbar:
+    collapse: false
+    left: 
+      - icon: house-fill
+        href: https://p-j-smith.github.io/
     right:
-      - about.qmd
+      - icon: person-circle
+        href: https://p-j-smith.github.io/about.html
       - icon: github
         href: https://github.com/p-j-smith
       - icon: linkedin
