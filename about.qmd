@@ -16,4 +16,4 @@ about:
 
 ---
 
-I'm a [Research Software Engineer](https://society-rse.org/about/) at UCL, working in the [Medical Imgaing Group](https://www.ucl.ac.uk/advanced-research-computing/expertise/research-software-development/medical-imaging-research-software-group) within [ARC](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-computing-centre). Not sure yet what I'll write about, but let's find out!
+I'm a [Research Software Engineer](https://society-rse.org/about/) at UCL, working in the [Medical Imgaing Group](https://www.ucl.ac.uk/advanced-research-computing/expertise/research-software-development/medical-imaging-research-software-group) within [ARC](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-computing-centre).
