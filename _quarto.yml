@@ -5,8 +5,8 @@ website:
   navbar:
     collapse: false
     left: 
-      - icon: house-fill
-        href: https://p-j-smith.github.io/
+      - file: index.qmd
+        text: consciously incompetant
     right:
       - icon: person-circle
         href: https://p-j-smith.github.io/about.html
@@ -14,6 +14,7 @@ website:
         href: https://github.com/p-j-smith
       - icon: linkedin
         href: https://www.linkedin.com/in/p-j-smith/
+
 format:
   html:
     theme: cosmo
