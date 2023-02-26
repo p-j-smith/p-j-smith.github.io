@@ -1,0 +1,11 @@
+{
+  "hash": "a7bccc61335bf499a4416682bec8e9ea",
+  "result": {
+    "markdown": "---\ntitle: 'This is a dummy blog post'\ndate: '2023-02-26'\ncategories: ['1st category', 'Second Tag']\ndescription: 'This is not a real post. It illustrates how to use some of the formatting options.'\nexecute:\n  echo: true  # print formatted code blocks\n  eval: false  # don't evaluate code blocks\n  message: false\n  warning: true\neditor_options: \n  chunk_output_type: console\ndraft: true  # don't publish this!\n---\n\n# Heading 1\n\nSome text goes here\n\n## Merriweather\n\nAnd more here.\n\nPlus a [hyperlink](https://p-j-smith.github.io/) to my blog\n\n### 3 - Code\n\nThis is `inline` code plus a small code chunk.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport this\n```\n:::\n\n\n### Tabsets\n\n::: {.cell execution_count=2}\n``` {.python .cell-code}\nprint('Create two tabs')\n```\n:::\n\n\n::: panel-tabset\n### Print some code\n\n::: {.cell execution_count=3}\n``` {.python .cell-code code-fold=\"true\"}\nvariable = 1\nif variable:\n    print(variable)\n```\n:::\n\n\n### Assert something\n\n::: {.cell execution_count=4}\n``` {.python .cell-code code-fold=\"false\"}\nassert 1 > 0\nprint('1 is greater than 0!')\n```\n:::\n\n\n:::\n\n#### 4 - Some math stuff\n\n$$\n\\int_0^1 f(x) \\ dx\n$$\n\n\n\n\n## 2 - Columns\n\n::: {layout=\"[[1,1]]\"}\n\n::: {.cell execution_count=5}\n``` {.python .cell-code}\nprint('first column')\n```\n:::\n\n\n::: {.cell execution_count=6}\n``` {.python .cell-code}\nprint('second column')\n```\n:::\n\n\n:::\n\n## 2 - Margin captions\n\n::: {.cell .fig-cap-location-margin execution_count=7}\n``` {.python .cell-code}\nprint('not the margin')\n```\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
