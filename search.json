@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/2023-02-26-consciously-incompetent/index.html",
+    "href": "posts/2023-02-26-consciously-incompetent/index.html",
+    "title": "Consciously incompetent",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "As developers, we are continually learning new skills and solving new problems. This means we spend much of our working lives in a state of conscious incompetence - we are acutely aware that we lack some skill or cannot solve some problem. It can be uncomfortable and demoralising to spend so much time in this state. But we must try to be kind to ourselves, ask for help when needed, and acknowledge how far we have already come.\n\n\n\n\n\n\n\nThe four stages of competence When learning a new skill, we are trying to move from a state of conscious incompetence to one of conscious competence.\n\n\n\n\n\n\nI’ll be using this site to blog about skills or knowledge I’m currently developing. This might be something to do with infrastructure-as-code, Python, software architecture, or something else entirely. Through writing about these topics, I hope I will solidify my understanding of them and move towards a state of conscious competence. And if you’ve stumbled across these pages and relate to this post, rest assured - you are not alone!"
   },
   {
     "objectID": "about.html",
@@ -25,6 +18,6 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 25, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 22, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Consciously incompetent\n\n\n\n\n\n\n\npersonal-development\n\n\n\n\n\n\n\n\n\n\n\nMar 5, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
