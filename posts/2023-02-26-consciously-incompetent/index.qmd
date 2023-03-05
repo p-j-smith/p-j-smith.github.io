@@ -1,0 +1,33 @@
+---
+title: 'Consciously incompetent'
+date: '2023-03-05'
+image: "conscious-incompetence.svg"
+categories: ['personal-development']
+execute:
+  echo: true  # print formatted code blocks
+  eval: false  # don't evaluate code blocks
+  message: false
+  warning: true
+editor_options: 
+  chunk_output_type: inline
+---
+
+As developers, we are continually learning new skills and solving new problems. This means we spend much of our working lives in a state of *conscious incompetence* - we are acutely aware that we lack some skill or cannot solve some problem. It can be uncomfortable and demoralising to spend so much time in this state. But we must try to be kind to ourselves, ask for help when needed, and acknowledge how far we have already come.
+
+:::: {.columns}
+
+::: {.column width="15%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+![**The four stages of competence** When learning a new skill, we are trying to move from a state of *conscious incompetence* to one of *conscious competence*. ](conscious-incompetence.svg){}
+:::
+
+::: {.column width="15%"}
+<!-- empty column to create gap -->
+:::
+
+::::
+
+I'll be using this site to blog about skills or knowledge I'm currently developing. This might be something to do with infrastructure-as-code, Python, software architecture, or something else entirely. Through writing about these topics, I hope I will solidify my understanding of them and move towards a state of *conscious competence*. And if you've stumbled across these pages and relate to this post, rest assured - you are not alone!
